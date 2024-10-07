@@ -1,0 +1,14 @@
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.AssemblyInfoInputs.cache
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.AssemblyInfo.cs
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\RobertOtis\source\repos\Queues\Queues\bin\Debug\net8.0\Queues.exe
+C:\Users\RobertOtis\source\repos\Queues\Queues\bin\Debug\net8.0\Queues.deps.json
+C:\Users\RobertOtis\source\repos\Queues\Queues\bin\Debug\net8.0\Queues.runtimeconfig.json
+C:\Users\RobertOtis\source\repos\Queues\Queues\bin\Debug\net8.0\Queues.dll
+C:\Users\RobertOtis\source\repos\Queues\Queues\bin\Debug\net8.0\Queues.pdb
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.dll
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\refint\Queues.dll
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.pdb
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\Queues.genruntimeconfig.cache
+C:\Users\RobertOtis\source\repos\Queues\Queues\obj\Debug\net8.0\ref\Queues.dll
